@@ -1,1 +1,1 @@
-This repository contains the detailed mathematical proofs and supplementary materials for our research work.
+This repository contains the detailed mathematical proofs and supplementary materials for our research work: Multi-Stage Economic Dispatch with Renewable and Energy Storage: A Penalized Distributionally Robust Programming Approach.
